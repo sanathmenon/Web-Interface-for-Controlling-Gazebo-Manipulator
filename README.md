@@ -3,7 +3,7 @@ A web interface to control your manipulator remotely
 
 Short Video of Working:(https://youtu.be/8Mcr43NFOTM)
 
-Full Video:(https://youtu.be/gbGTrqI-DKk)
+Full Video:(https://youtu.be/FxwZoSfJ-Cs)
 
 ## **Steps to get it up and running-**
 
