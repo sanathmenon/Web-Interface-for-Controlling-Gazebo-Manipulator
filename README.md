@@ -1,6 +1,10 @@
 # Web-Interface-for-Controlling-Gazebo-Manipulator
 A web interface to control your manipulator remotely
 
+Short Video of Working:(https://youtu.be/8Mcr43NFOTM)
+
+Full Video:(https://youtu.be/gbGTrqI-DKk)
+
 ## **Steps to get it up and running-**
 
   Move the 'gazebo_ros_demos' folder into ~/catkin_ws/src
